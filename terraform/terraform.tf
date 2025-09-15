@@ -27,7 +27,7 @@ terraform {
   }
 
   backend "s3" {
-    bucket = "sktraders25"
+    bucket = "sktrader12345"
     key    = "terraform.tfstate"
     region = "us-east-1"
   }
